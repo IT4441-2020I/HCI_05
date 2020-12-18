@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Tên dự án: Tốc ký Tiếng Việt
 2. Giới thiệu:
 - Yêu cầu: Xây dựng mẫu thử giao diện cho trang web học gõ Tiếng Việt theo cơ chế Tốc ký
@@ -10,3 +11,6 @@
 5. Thông tin liên lạc: 
 - Họ tên: Hàn Trung Kiên
 - Email: hantrungkien98@gmail.com
+=======
+
+>>>>>>> c7a3c0ab618b0d1f94957ed3eecda4e3653aa1d6
